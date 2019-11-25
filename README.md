@@ -5,7 +5,7 @@
 Thanks to work done on project 3 from all of you, we now have over 31 unique published kaggle datasets. In this project, you will have opportunity to work on one dataset from your class's datasets, including define a problem statement, an extensive outline of EDA and modeling to date, the goal of your predictive model.
 
 
-The goal of this project is applying **unsupervised learning algorithms**, or **Time Series models** or you can build a **recommendation system**.
+The goal of this project is applying **unsupervised learning algorithms**, or **Time Series models** or you can build a **recommendation system** or **NLP**.
 
 ---
 
